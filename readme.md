@@ -1,4 +1,4 @@
-# Codeboost
+# Front-End Space Y
 
 ---
 
@@ -8,8 +8,8 @@
 
 ## UI Design
 
-[Figma](https://www.figma.com/community/file/986447430009792279)
+[UI DESIN](https://www.figma.com/community/file/986447430009792279)
 
 ## Front-End
 
-[Netlify](http://web-spacey.netlify.app)
+[WEB](http://web-spacey.netlify.app)
