@@ -2,7 +2,7 @@
 
 ---
 
-![Cover.png](Cover.png)
+->![Cover.png](Cover.png)<-
 
 ---
 
