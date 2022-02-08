@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-sizing: border-box;
+  text-decoration: none;
+  outline: 0;
+  list-style: none;
+  font-size: 1.6rem;
+  font-weight: normal;
+  font-family: "Heebo", sans-serif;
+}
+
+html,
+body {
+  font-size: 62.5%;
+  overflow-x: hidden;
+  background-color: $blue-space-dark;
+  /*Scroll Effect*/
+  scroll-behavior: smooth;
+  scrollbar-width: thin;
+  scrollbar-color: $blue-space-light transparent;
+
+  &::-webkit-scrollbar {
+    width: 0.2rem;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: $blue-space-light;
+    border-radius: 2rem;
+  }
+}
+
+img {
+  width: 100%;
+  display: inline-block;
+}
